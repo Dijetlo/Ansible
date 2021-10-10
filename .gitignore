@@ -117,8 +117,8 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
-# Pycharm project settings
-.idea
+# Pycharm project settings - blows up local git when using pycharm
+# .idea
 
 # mkdocs documentation
 /site
